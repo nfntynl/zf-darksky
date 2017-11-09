@@ -1,0 +1,27 @@
+{
+  "name": "nfntynl/zf-darksky",
+  "description": "Simple DarkSky Weather Forecast API Zend Framework module using Guzzlehttp",
+  "keywords": [
+    "zf2",
+    "zend framework 2",
+    "weather",
+    "forecast",
+    "darksky"
+  ],
+  "license": "MIT license",
+  "authors": [
+    {
+      "name": "Erwin Kloosterboer",
+      "email": "erwin@nfnty.nl"
+    }
+  ],
+  "require": {
+    "container-interop/container-interop": "^1.1",
+    "guzzlehttp/guzzle": "~5.0"
+  },
+  "autoload": {
+    "files": [
+      "Module.php"
+    ]
+  }
+}

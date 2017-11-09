@@ -1,0 +1,6 @@
+<?php
+return [
+    'nf-darksky' => [
+        'darksky-api-key' => null, //Replace with your api key
+    ]
+];
